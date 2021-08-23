@@ -1,0 +1,6 @@
+{
+  "UiPath.GSuite.Activities.GenericGSuite.ContinueOnError": "False",
+  "UiPath.GSuite.Activities.GSuiteScope.TimeoutMS": "60000",
+  "UiPath.GSuite.Activities.GoogleSheetsScope.Timeout": "60",
+  "UiPath.GSuite.Activities.GoogleDriveScope.Timeout": "60"
+}
