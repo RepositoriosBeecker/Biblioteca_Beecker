@@ -2,7 +2,7 @@
 # Beeckerco
 
 
-![](https://img.shields.io/github/issues/RepositoriosBeecker/Biblioteca_Beecker) ![](https://img.shields.io/github/forks/RepositoriosBeecker/Biblioteca_Beecker) ![](https://img.shields.io/github/stars/RepositoriosBeecker/Biblioteca_Beecker)
+![](https://img.shields.io/github/issues/RepositoriosBeecker/Biblioteca_Beecker) ![](https://img.shields.io/github/forks/RepositoriosBeecker/Biblioteca_Beecker) ![](https://img.shields.io/github/stars/RepositoriosBeecker/Biblioteca_Beecker)![](https://img.shields.io/github/repo-size/RepositoriosBeecker/Biblioteca_Beecker)
 
 
 ## Excel "Heading link")
