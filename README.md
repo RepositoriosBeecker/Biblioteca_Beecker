@@ -8,6 +8,6 @@
 ## Excel
 Módulos relacionados con la aplicación de oficina
 ## SAP 
-Dentro de esta, existem mopduclos que aún no se desarrrollan dentro de las BAPI's
+Módulos que aún no se desarrrollan dentro de las BAPIS
 ## NetSuite
 Aplicación de soluciones en la nube.
